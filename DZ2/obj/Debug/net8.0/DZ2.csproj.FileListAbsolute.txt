@@ -1,0 +1,15 @@
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.AssemblyInfoInputs.cache
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.AssemblyInfo.cs
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.csproj.CoreCompileInputs.cache
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.sourcelink.json
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/bin/Debug/net8.0/DZ2
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/bin/Debug/net8.0/DZ2.deps.json
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/bin/Debug/net8.0/DZ2.runtimeconfig.json
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/bin/Debug/net8.0/DZ2.dll
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/bin/Debug/net8.0/DZ2.pdb
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.dll
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/refint/DZ2.dll
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.pdb
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/DZ2.genruntimeconfig.cache
+/Users/alena/Desktop/C#/Seminars/Sem7/DZ2/obj/Debug/net8.0/ref/DZ2.dll
